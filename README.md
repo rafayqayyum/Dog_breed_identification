@@ -1,6 +1,6 @@
 # Dog Breed Identification
 
-In this project. I've created a feature extraction model for Dog Breed Identification and then fine tuned the model.
+In this project, I've created a feature extraction model for Dog Breed Identification and then fine tuned the model.
 
 ## About Dataset
 The dataset used here is from [Stanford_dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/) which is avaiable on tensorflow datasets.
